@@ -19,10 +19,6 @@ Com o **BuyNatural** a empresa pode realizar o cadastro e ter acesso a diversos 
 <h2 align="center">Demonstração</h2>
 
 <h3 align="center">
-    <img src="https://github.com/JulioNery/BuyNatural/blob/master/images/app/buynaturalhome.jpg?raw=true">
-</h3>
-
-<h3 align="center">
     <img width="250px" src="https://github.com/julionery/flutter-firebase-buy-natural/blob/master/images/app/buynatural1.PNG?raw=true">&nbsp;&nbsp;  
     <img width="250px" src="https://github.com/julionery/flutter-firebase-buy-natural/blob/master/images/app/buynatural2.PNG?raw=true">&nbsp;&nbsp;
     <img width="250px" src="https://github.com/julionery/flutter-firebase-buy-natural/blob/master/images/app/buynatural3.PNG?raw=true">
