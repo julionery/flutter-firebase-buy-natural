@@ -1,5 +1,3 @@
-
-
 <h3 align="center">
     <img alt="Logo" title="#logo" width="150px" src="https://github.com/julionery/flutter-firebase-buy-natural/blob/master/icons/harvest.png?raw=true">
 </h3>
@@ -15,6 +13,8 @@ Com o **BuyNatural** a empresa pode realizar o cadastro e ter acesso a diversos 
 - [Flutter](https://flutter.dev/ "Flutter")
 - [Firebase](https://firebase.google.com/ "Firebase")
 
+### :globe_with_meridians: Autenticação :
+- [Firebase Authentication](https://firebase.google.com/products/auth?hl=pt-br&gclid=Cj0KCQjwoPL2BRDxARIsAEMm9y8XhSHtYRrjL7OPk8hVPM_Qr0_xGwuc7-vYYIZ-VBIAQtphlU3LQlcaAoEAEALw_wcB)
 
 <h2 align="center">Demonstração</h2>
 
